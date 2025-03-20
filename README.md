@@ -1,0 +1,2 @@
+# TrainingRecord
+トレーニングの記録を行うアプリケーション。React+Node.jsで実装してみる。Webで作ってみて頑張れそうなら、ReactNativeでスマホ用に作成したい。
